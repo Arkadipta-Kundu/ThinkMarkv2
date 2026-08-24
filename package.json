@@ -1,0 +1,1 @@
+{"name":"thinkmark-v2","private":true,"version":"2.0.0","description":"ThinkMark multi-account notebook extension","scripts":{"dev":"python -m http.server 5500 -d public"}}
